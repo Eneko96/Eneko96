@@ -15,3 +15,5 @@ Front end developer with expertice in Javascript, Node.js and React.
 Eneko96/Eneko96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/Eneko"><img src="https://api.daily.dev/devcards/635f8c5dd22c4553b2f89e341d3a917c.png?r=6vd" width="400" alt="Iñigo Moreno Ramos's Dev Card"/></a>
